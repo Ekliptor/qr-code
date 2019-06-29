@@ -1,6 +1,10 @@
 {
     "name": "ekliptor/qr-code",
+    "version": "1.0.0",
     "description": "QR Code Generator for PHP",
+    "keywords" : [
+        "qrcode"
+    ],
     "type": "library",
     "license": "MIT",
     "authors": [
